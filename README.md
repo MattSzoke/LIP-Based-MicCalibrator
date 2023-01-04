@@ -17,6 +17,8 @@ We demonstrate how to pre-process LIP acoustic data. The following processing st
 
 The process is split up to two portions. First, run Script1_ReduceLIPData.m and then run Script2_CalibrationGenerator.m.
 As their names suggest, Script1 digests data and Script2 determines microphone responses. 
+Script1 relies on a sample dataset, which is available using this link:
+https://www.dropbox.com/s/yx3h1ezuule0xx5/SampleData_v2.mat?dl=0
 
 For any questions or comments, please do not hesitate to reach out!
 
